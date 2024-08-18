@@ -1,5 +1,3 @@
 # Webpack5
 
-#### [Ссылка на Github Pages](https://github.com/AlexandrYaskevich/HtmlFormValid)
-
-[![Build status](https://ci.appveyor.com/api/projects/status/qcbdpysild3dgmnb?svg=true)](https://ci.appveyor.com/project/AlexandrYaskevich/HtmlFormValid)
+![CI](https://github.com/<OWNER>/<https://github.com/AlexandrYaskevich/HtmlFormValid>/actions/workflows/web.yml/badge.svg)
